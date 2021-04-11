@@ -708,25 +708,3 @@ p.edu-summury {
 	color: #fff;
 }
 
-/*Scrollbar*/
-
-.mCSB_inside > .mCSB_container {
-	margin: 0
-}
-
-.mCSB_scrollTools .mCSB_draggerContainer {
-	z-index: 3;
-}
-
-.mCS-dark.mCSB_scrollTools .mCSB_dragger:hover .mCSB_dragger_bar {
-	background-color: #2ECC71;
-}
-
-
-
-.mCS-dark.mCSB_scrollTools .mCSB_dragger:active .mCSB_dragger_bar,
-.mCS-dark.mCSB_scrollTools .mCSB_dragger.mCSB_dragger_onDrag .mCSB_dragger_bar,
-.mCS-dark.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar,
-.mCS-dark.mCSB_scrollTools .mCSB_draggerRail {
-	background-color: #2ECC71;
-}
